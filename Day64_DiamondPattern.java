@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Day64_DiamondPattern {
     public static void main(String[] args) {
+//      Membuat pola diamond
         Scanner input = new Scanner(System.in);
         System.out.print("Masukkan baris : ");
         int baris = input.nextInt();
